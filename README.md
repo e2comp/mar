@@ -106,7 +106,7 @@
         <div class="section">
             <h2>Blog: Understanding Malware, Spam, Viruses, and Antiviruses</h2>
             <p>Malware is any software intentionally designed to cause harm to a computer, server, client, or network. This can include viruses, worms, trojans, ransomware, spyware, and adware. Malware typically gains unauthorized access to a system, often stealing sensitive information or causing operational disruptions.</p>
-            <img src="https://via.placeholder.com/600x300?text=Malware" alt="Malware Illustration" class="topic-img">
+            <img src="images (6).jpeg" class="topic-img">
             <p>Spam refers to unsolicited or irrelevant messages sent over the internet, typically in bulk. It is a common vector for malware distribution, phishing scams, and unwanted advertisements.</p
             <p>Viruses are a type of malware that attach themselves to files or programs. When executed, they replicate and spread to other systems, often corrupting files, stealing data, or causing other damage.</p> 
             <p>Antivirus software is designed to detect, prevent, and remove malware. It scans files, monitors network traffic, and identifies suspicious activities. Keeping antivirus software updated is essential for effective protection against emerging threats.</p>
