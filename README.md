@@ -115,7 +115,7 @@
         <div class="section">
             <h2>Plagiarism: Cases and Punishments</h2>
             <p>Plagiarism involves using someone else's work, ideas, or intellectual property without proper attribution. It is a severe ethical and legal offense in academic, creative, and professional fields.</p>
-            <img src="https://via.placeholder.com/600x300?text=Plagiarism" alt="Plagiarism Illustration" class="topic-img">
+            <img src="images (8).jpeg" alt="Plagiarism Illustration" class="topic-img">
             <p><strong>Reported Cases:</strong></p>
             <ul>
                 <li>In 2012, a German politician was forced to resign after it was revealed that large portions of his doctoral thesis were plagiarized.</li>
